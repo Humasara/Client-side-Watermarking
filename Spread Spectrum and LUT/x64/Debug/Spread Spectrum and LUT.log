@@ -1,0 +1,7 @@
+﻿  Watermark Verification.cpp
+c:\users\hien pham\desktop\projet s5\spread spectrum and lut\spread spectrum and lut\watermark verification.cpp(52): warning C4244: 'initializing': conversion from 'mpir_ui' to 'int', possible loss of data
+c:\users\hien pham\desktop\projet s5\spread spectrum and lut\spread spectrum and lut\watermark verification.cpp(88): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\hien pham\desktop\projet s5\spread spectrum and lut\spread spectrum and lut\watermark verification.cpp(89): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\hien pham\desktop\projet s5\spread spectrum and lut\spread spectrum and lut\watermark verification.cpp(99): warning C4244: 'initializing': conversion from 'mpir_ui' to 'int', possible loss of data
+c:\users\hien pham\desktop\projet s5\spread spectrum and lut\spread spectrum and lut\watermark verification.cpp(68): warning C4101: 'D_L': unreferenced local variable
+  Spread Spectrum and LUT.vcxproj -> C:\Users\Hien Pham\Desktop\Projet S5\Spread Spectrum and LUT\x64\Debug\Spread Spectrum and LUT.exe

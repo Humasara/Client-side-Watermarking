@@ -1,0 +1,22 @@
+﻿  Spread Spectrum and LUT.cpp
+h:\gmp\include\gmp.h(2223): warning C4146: unary minus operator applied to unsigned type, result still unsigned
+h:\gmp\include\gmpxx.h(100): warning C4146: unary minus operator applied to unsigned type, result still unsigned
+h:\gmp\include\gmpxx.h(154): warning C4146: unary minus operator applied to unsigned type, result still unsigned
+h:\gmp\include\gmpxx.h(205): warning C4146: unary minus operator applied to unsigned type, result still unsigned
+h:\gmp\include\gmpxx.h(272): warning C4146: unary minus operator applied to unsigned type, result still unsigned
+h:\gmp\include\gmpxx.h(316): warning C4146: unary minus operator applied to unsigned type, result still unsigned
+h:\gmp\include\gmpxx.h(324): warning C4146: unary minus operator applied to unsigned type, result still unsigned
+h:\gmp\include\gmpxx.h(361): warning C4146: unary minus operator applied to unsigned type, result still unsigned
+h:\gmp\include\gmpxx.h(396): warning C4146: unary minus operator applied to unsigned type, result still unsigned
+h:\gmp\include\gmpxx.h(403): warning C4146: unary minus operator applied to unsigned type, result still unsigned
+h:\gmp\include\gmpxx.h(431): warning C4146: unary minus operator applied to unsigned type, result still unsigned
+h:\gmp\include\gmpxx.h(514): warning C4146: unary minus operator applied to unsigned type, result still unsigned
+h:\gmp\include\gmpxx.h(559): warning C4146: unary minus operator applied to unsigned type, result still unsigned
+h:\gmp\include\gmpxx.h(588): warning C4146: unary minus operator applied to unsigned type, result still unsigned
+h:\gmp\include\gmpxx.h(656): warning C4146: unary minus operator applied to unsigned type, result still unsigned
+h:\gmp\include\gmpxx.h(699): warning C4146: unary minus operator applied to unsigned type, result still unsigned
+h:\gmp\include\gmpxx.h(728): warning C4146: unary minus operator applied to unsigned type, result still unsigned
+h:\gmp\include\gmpxx.h(738): warning C4146: unary minus operator applied to unsigned type, result still unsigned
+h:\gmp\include\gmpxx.h(1449): warning C4146: unary minus operator applied to unsigned type, result still unsigned
+h:\gmp\include\gmpxx.h(1473): warning C4146: unary minus operator applied to unsigned type, result still unsigned
+c:\users\hien pham\desktop\projet s5\spread spectrum and lut\spread spectrum and lut\spread spectrum and lut.cpp(16): error C2871: 'cv': a namespace with this name does not exist
